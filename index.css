@@ -1,0 +1,30 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-color: #00000c;
+	color: white;
+}
+
+nav a {
+	color: #dacaf8;
+}	
+
+#main {
+	color: #dacaf8
+}
+
+#napchair {
+	background-color: #ffffff;
+	color: #00000c;
+}
+
+footer a {
+	color: #dacafb;
+}
+
+footer p {
+	color: #dacafb;
+}
