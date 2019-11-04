@@ -8,12 +8,21 @@ body {
 	color: white;
 }
 
+header img {
+    max-height: 61px;
+    max-width: 62px;
+}
+
 nav a {
 	color: #dacaf8;
-}	
+}
 
 #main {
 	color: #dacaf8
+}
+
+#main img {
+    width: 100%;
 }
 
 #napchair {
@@ -21,10 +30,25 @@ nav a {
 	color: #00000c;
 }
 
+#napchair img {
+    max-width: 237px;
+}
+
+#contact_us img{
+    max-width:530px;
+}
 footer a {
 	color: #dacafb;
 }
 
 footer p {
 	color: #dacafb;
+}
+
+.instagram_logo {
+    max-height: 39px;
+}
+
+.facebook_logo {
+    max-height: 50px;
 }
