@@ -37,7 +37,11 @@ nav a {
 #contact-us img{
     max-width:530px;
 }
-footer a,p {
+footer a {
+	color: #dacafb;
+}
+
+footer {
 	color: #dacafb;
 }
 
